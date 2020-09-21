@@ -1,1 +1,1 @@
-﻿Print"Hello World"
+﻿msgbox"Hello World"
